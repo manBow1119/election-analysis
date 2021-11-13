@@ -6,7 +6,7 @@ Total votes were calculated, as were the total number of votes and percentage of
 
 ## Resources
 -Data Source: election_results.csv
-- Software: Python 3.10, Visual Studio Code 1.61
+-Software: Python 3.10, Visual Studio Code 1.61
 
 ## Summary
 The analysis of the election show that:
